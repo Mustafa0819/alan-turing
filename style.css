@@ -1,0 +1,58 @@
+.container {
+    width: 37rem;
+    height: auto;
+    margin: auto;
+}
+
+.header-em {
+    display: block;
+}
+
+.header-span {
+    display: block;
+    margin-bottom: 2rem;
+}
+
+.h1  {
+    font-size: 1.5rem;
+}
+
+ h2 {
+    font-size: 1.3rem;
+    margin-top: 2rem;    
+}
+
+p {
+    margin: 0;
+}
+
+.paragraph-indent {
+    text-indent: 1rem;
+    margin: 0;
+}
+
+.paragraph-span {
+    display: block;
+}
+
+.header-two-space {
+    padding-right: 0.3rem;
+}
+
+.span-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 37rem;
+    margin-top: 1.6rem;
+}
+
+.last-paragraph-heading {
+    display: inline;
+    font-size: 1.3rem;
+}
+
+.strong-span {
+    display: block;
+    margin-top: 1.3rem;
+}
